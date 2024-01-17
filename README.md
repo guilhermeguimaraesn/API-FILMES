@@ -19,7 +19,7 @@ Programa exclusivo do curso Explorer, promovido pela Rocketseat para ensino de t
 <br>
 
 <p align="center">
-  <!-- <img alt="Projeto Explorer sem limites" src="./.github/FocusTimer - dark mode.png" width="100%"> -->
+  <img alt="Projeto Explorer sem limites" src="./github_assets/Untitled.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
